@@ -1,0 +1,260 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+rank-1, epoch-0: [start_time: 1662646005.546840,end_time: 1662646028.390778
+rank-3, epoch-0: [start_time: 1662646005.536992,end_time: 1662646028.390778
+rank-2, epoch-0: [start_time: 1662646005.552825,end_time: 1662646028.390778
+
+
+rank-0, epoch-0: [start_time: 1662646005.545843,end_time: 1662646028.390778
+
+
+rank-1, epoch-1: [start_time: 1662646028.390778,end_time: 1662646050.682302
+
+rank-3, epoch-1: [start_time: 1662646028.390778,end_time: 1662646050.682302
+
+rank-2, epoch-1: [start_time: 1662646028.390778,end_time: 1662646050.682302
+rank-0, epoch-1: [start_time: 1662646028.390778,end_time: 1662646050.682302
+
+
+rank-2, epoch-2: [start_time: 1662646050.682302,end_time: 1662646078.752783
+
+rank-0, epoch-2: [start_time: 1662646050.682302,end_time: 1662646078.752783
+
+rank-3, epoch-2: [start_time: 1662646050.682302,end_time: 1662646078.752783
+
+rank-1, epoch-2: [start_time: 1662646050.682302,end_time: 1662646078.752783
+
+rank-2, epoch-3: [start_time: 1662646078.752783,end_time: 1662646101.345698
+
+rank-1, epoch-3: [start_time: 1662646078.752783,end_time: 1662646101.345698
+
+rank-3, epoch-3: [start_time: 1662646078.752783,end_time: 1662646101.345698
+
+rank-0, epoch-3: [start_time: 1662646078.752783,end_time: 1662646101.345698
+
+rank-0, epoch-4: [start_time: 1662646101.345698,end_time: 1662646126.956075
+
+rank-3, epoch-4: [start_time: 1662646101.345698,end_time: 1662646126.957072
+
+rank-1, epoch-4: [start_time: 1662646101.345698,end_time: 1662646126.957072
+
+rank-2, epoch-4: [start_time: 1662646101.345698,end_time: 1662646126.957072
+
+rank-1, epoch-5: [start_time: 1662646126.957072,end_time: 1662646150.811114
+
+rank-0, epoch-5: [start_time: 1662646126.956075,end_time: 1662646150.811114
+rank-2, epoch-5: [start_time: 1662646126.957072,end_time: 1662646150.811114
+rank-3, epoch-5: [start_time: 1662646126.957072,end_time: 1662646150.811114
+
+
+
+rank-3, epoch-6: [start_time: 1662646150.811114,end_time: 1662646175.752773
+
+rank-2, epoch-6: [start_time: 1662646150.811114,end_time: 1662646175.752773
+
+rank-1, epoch-6: [start_time: 1662646150.811114,end_time: 1662646175.752773
+
+rank-0, epoch-6: [start_time: 1662646150.811114,end_time: 1662646175.758769
+
+rank-2, epoch-7: [start_time: 1662646175.752773,end_time: 1662646199.971919
+
+rank-3, epoch-7: [start_time: 1662646175.752773,end_time: 1662646199.971919
+
+rank-0, epoch-7: [start_time: 1662646175.758769,end_time: 1662646199.971919
+
+rank-1, epoch-7: [start_time: 1662646175.752773,end_time: 1662646199.971919
+
+rank-2, epoch-8: [start_time: 1662646199.971919,end_time: 1662646225.690899
+
+rank-3, epoch-8: [start_time: 1662646199.971919,end_time: 1662646225.690899
+
+rank-0, epoch-8: [start_time: 1662646199.971919,end_time: 1662646225.690899
+rank-1, epoch-8: [start_time: 1662646199.971919,end_time: 1662646225.690899
+
+
+rank-2, epoch-9: [start_time: 1662646225.690899,end_time: 1662646251.481093
+
+rank-1, epoch-9: [start_time: 1662646225.690899,end_time: 1662646251.481093
+
+rank-0, epoch-9: [start_time: 1662646225.690899,end_time: 1662646251.481093
+rank-3, epoch-9: [start_time: 1662646225.690899,end_time: 1662646251.481093
+
+
+
+Process finished with exit code 0
+
+Files already downloaded and verifiedFiles already downloaded and verified
+
+rank-0, epoch-0: [start_time: 1662646787.397933,end_time: 1662646813.841053
+rank-1, epoch-0: [start_time: 1662646787.397933,end_time: 1662646813.841053
+
+
+rank-0, epoch-1: [start_time: 1662646813.841053,end_time: 1662646840.189018
+rank-1, epoch-1: [start_time: 1662646813.841053,end_time: 1662646840.189018
+
+
+rank-1, epoch-2: [start_time: 1662646840.189018,end_time: 1662646866.254865
+
+rank-0, epoch-2: [start_time: 1662646840.189018,end_time: 1662646866.254865
+
+rank-0, epoch-3: [start_time: 1662646866.254865,end_time: 1662646892.923948
+
+rank-1, epoch-3: [start_time: 1662646866.254865,end_time: 1662646892.923948
+
+rank-0, epoch-4: [start_time: 1662646892.923948,end_time: 1662646919.248798
+rank-1, epoch-4: [start_time: 1662646892.923948,end_time: 1662646919.248798
+
+
+rank-1, epoch-5: [start_time: 1662646919.248798,end_time: 1662646945.332002
+
+rank-0, epoch-5: [start_time: 1662646919.248798,end_time: 1662646945.332002
+
+rank-0, epoch-6: [start_time: 1662646945.332002,end_time: 1662646971.998472
+
+rank-1, epoch-6: [start_time: 1662646945.332002,end_time: 1662646971.998472
+
+rank-1, epoch-7: [start_time: 1662646971.998472,end_time: 1662646998.572067
+
+rank-0, epoch-7: [start_time: 1662646971.998472,end_time: 1662646998.578052
+
+rank-0, epoch-8: [start_time: 1662646998.578052,end_time: 1662647024.485569
+rank-1, epoch-8: [start_time: 1662646998.572067,end_time: 1662647024.485569
+
+
+rank-0, epoch-9: [start_time: 1662647024.485569,end_time: 1662647051.512413
+
+rank-1, epoch-9: [start_time: 1662647024.485569,end_time: 1662647051.521405
+
+
+Process finished with exit code 0
+
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+rank-2, epoch-0: [start_time: 1662647142.592738,end_time: 1662647163.437550
+
+rank-5, epoch-0: [start_time: 1662647142.635624,end_time: 1662647163.437550
+
+rank-1, epoch-0: [start_time: 1662647142.655569,end_time: 1662647163.437550
+
+rank-4, epoch-0: [start_time: 1662647142.672523,end_time: 1662647163.437550
+
+rank-3, epoch-0: [start_time: 1662647142.588770,end_time: 1662647163.443534
+
+rank-0, epoch-0: [start_time: 1662647142.597724,end_time: 1662647163.443534
+
+rank-3, epoch-1: [start_time: 1662647163.443534,end_time: 1662647183.486822
+
+rank-4, epoch-1: [start_time: 1662647163.437550,end_time: 1662647183.486822
+rank-5, epoch-1: [start_time: 1662647163.437550,end_time: 1662647183.486822
+
+
+rank-0, epoch-1: [start_time: 1662647163.443534,end_time: 1662647183.486822
+
+rank-1, epoch-1: [start_time: 1662647163.437550,end_time: 1662647183.486822
+
+rank-2, epoch-1: [start_time: 1662647163.437550,end_time: 1662647183.486822
+
+rank-4, epoch-2: [start_time: 1662647183.486822,end_time: 1662647203.979361
+
+rank-3, epoch-2: [start_time: 1662647183.486822,end_time: 1662647203.979361
+
+rank-5, epoch-2: [start_time: 1662647183.486822,end_time: 1662647203.979361
+
+rank-1, epoch-2: [start_time: 1662647183.486822,end_time: 1662647203.980359
+
+rank-0, epoch-2: [start_time: 1662647183.486822,end_time: 1662647203.980359
+
+rank-2, epoch-2: [start_time: 1662647183.486822,end_time: 1662647203.980359
+
+rank-2, epoch-3: [start_time: 1662647203.980359,end_time: 1662647224.316419
+
+rank-3, epoch-3: [start_time: 1662647203.979361,end_time: 1662647224.316419
+
+rank-5, epoch-3: [start_time: 1662647203.979361,end_time: 1662647224.316419
+
+rank-0, epoch-3: [start_time: 1662647203.980359,end_time: 1662647224.316419
+
+rank-4, epoch-3: [start_time: 1662647203.979361,end_time: 1662647224.316419
+
+rank-1, epoch-3: [start_time: 1662647203.980359,end_time: 1662647224.316419
+
+rank-1, epoch-4: [start_time: 1662647224.316419,end_time: 1662647243.875882
+
+rank-3, epoch-4: [start_time: 1662647224.316419,end_time: 1662647243.875882
+
+rank-2, epoch-4: [start_time: 1662647224.316419,end_time: 1662647243.875882
+
+rank-0, epoch-4: [start_time: 1662647224.316419,end_time: 1662647243.875882
+
+rank-5, epoch-4: [start_time: 1662647224.316419,end_time: 1662647243.876880
+
+rank-4, epoch-4: [start_time: 1662647224.316419,end_time: 1662647243.876880
+
+rank-5, epoch-5: [start_time: 1662647243.876880,end_time: 1662647263.206187
+
+rank-4, epoch-5: [start_time: 1662647243.876880,end_time: 1662647263.206187
+
+rank-1, epoch-5: [start_time: 1662647243.875882,end_time: 1662647263.206187
+
+rank-0, epoch-5: [start_time: 1662647243.875882,end_time: 1662647263.206187
+
+rank-3, epoch-5: [start_time: 1662647243.875882,end_time: 1662647263.206187
+
+rank-2, epoch-5: [start_time: 1662647243.875882,end_time: 1662647263.206187
+
+rank-5, epoch-6: [start_time: 1662647263.206187,end_time: 1662647282.839269
+
+rank-3, epoch-6: [start_time: 1662647263.207185,end_time: 1662647282.839269
+
+rank-4, epoch-6: [start_time: 1662647263.206187,end_time: 1662647282.839269
+
+rank-1, epoch-6: [start_time: 1662647263.206187,end_time: 1662647282.839269
+
+rank-2, epoch-6: [start_time: 1662647263.207185,end_time: 1662647282.844255
+
+rank-0, epoch-6: [start_time: 1662647263.206187,end_time: 1662647282.844255
+
+rank-5, epoch-7: [start_time: 1662647282.839269,end_time: 1662647303.442080
+
+rank-2, epoch-7: [start_time: 1662647282.844255,end_time: 1662647303.443077
+
+rank-4, epoch-7: [start_time: 1662647282.839269,end_time: 1662647303.442080
+
+rank-1, epoch-7: [start_time: 1662647282.839269,end_time: 1662647303.443077
+
+rank-3, epoch-7: [start_time: 1662647282.839269,end_time: 1662647303.443077
+
+rank-0, epoch-7: [start_time: 1662647282.845253,end_time: 1662647303.448063
+
+rank-1, epoch-8: [start_time: 1662647303.443077,end_time: 1662647322.739796
+
+rank-5, epoch-8: [start_time: 1662647303.442080,end_time: 1662647322.739796
+
+rank-2, epoch-8: [start_time: 1662647303.443077,end_time: 1662647322.740793
+
+rank-0, epoch-8: [start_time: 1662647303.448063,end_time: 1662647322.740793
+
+rank-3, epoch-8: [start_time: 1662647303.443077,end_time: 1662647322.740793
+
+rank-4, epoch-8: [start_time: 1662647303.443077,end_time: 1662647322.740793
+
+rank-3, epoch-9: [start_time: 1662647322.740793,end_time: 1662647343.008471
+rank-1, epoch-9: [start_time: 1662647322.739796,end_time: 1662647343.008471
+
+
+rank-2, epoch-9: [start_time: 1662647322.740793,end_time: 1662647343.008471
+
+rank-4, epoch-9: [start_time: 1662647322.740793,end_time: 1662647343.008471
+
+rank-5, epoch-9: [start_time: 1662647322.739796,end_time: 1662647343.073836
+
+rank-0, epoch-9: [start_time: 1662647322.740793,end_time: 1662647343.108742
+
+
+Process finished with exit code 0

@@ -95,8 +95,8 @@ class ResNetShard1(ResNetBase):
             if isinstance(m, nn.Conv2d):
                 nn.init.kaiming_normal_(m.weight, mode='fan_out', nonlinearity='relu')
             elif isinstance(m, nn.BatchNorm2d):
-                nn.init.ones_(m.weight)
-                nn.init.zeros_(m.bias)
+                nn.init.ones_(m.weight, 1)
+                nn.init.zeros_(m.bias, 0)
 
     def forward(self, x_rref):
         x = x_rref.to_here()
@@ -215,11 +215,12 @@ def run_master(split_size):
 
 
 def run_worker(rank, world_size, num_split):
-    os.environ['MASTER_ADDR'] = 'localhost'
+    os.environ['MASTER_ADDR'] = '192.168.159.140'
     os.environ['MASTER_PORT'] = '29500'
+    os.environ['GLOO_SOCKET_IFNAME'] = 'ens33'
 
     # Higher timeout is added to accommodate for kernel compilation time in case of ROCm.
-    options = rpc.TensorPipeRpcBackendOptions(num_worker_threads=2, rpc_timeout=300)
+    options = rpc.TensorPipeRpcBackendOptions(num_worker_threads=2, init_method="tcp://192.168.159.140:29500", rpc_timeout=300)
 
     if rank == 0:
         rpc.init_rpc(
@@ -244,8 +245,9 @@ def run_worker(rank, world_size, num_split):
 
 if __name__=="__main__":
     world_size = 3
+    rank = 0
     for num_split in [1, 2, 4, 8]:
         tik = time.time()
-        mp.spawn(run_worker, args=(world_size, num_split), nprocs=world_size, join=True)
+        run_worker(rank, world_size,num_split)
         tok = time.time()
         print(f"number of splits = {num_split}, execution time = {tok - tik}")
